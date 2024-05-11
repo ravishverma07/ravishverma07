@@ -1,12 +1,20 @@
-- 👋 Hi, I’m @ravishverma07
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+<h1 align="center">
+  Hi there 👋 
+</h1>
 
-<!---
-ravishverma07/ravishverma07 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+𝙸'𝚖 𝚊 𝙿𝚢𝚝𝚑𝚘𝚗 𝚍𝚎𝚟𝚎𝚕𝚘𝚙𝚎𝚛 𝚠𝚒𝚝𝚑 2 𝚢𝚎𝚊𝚛𝚜 𝚘𝚏 𝚎𝚡𝚙𝚎𝚛𝚒𝚎𝚗𝚌𝚎. 𝙼𝚢 𝚜𝚔𝚒𝚕𝚕𝚜 𝚒𝚗𝚌𝚕𝚞𝚍𝚎 𝙿𝚢𝚝𝚑𝚘𝚗, 𝙳𝚓𝚊𝚗𝚐𝚘, 𝙵𝚕𝚊𝚜𝚔, 𝙵𝚊𝚜𝚝𝙰𝙿𝙸, 𝚂𝚀𝙻𝙰𝚕𝚌𝚑𝚎𝚖𝚢 𝚊𝚗𝚍 𝙹𝚊𝚟𝚊𝚂𝚌𝚛𝚒𝚙𝚝.
+<br/>
+<br/>
+
+<img align="right" height="250" width="330" alt="GIF" src="https://camo.githubusercontent.com/9792d43627b178fd4a45bcabb3647d7b34a62d64baf96a19abf6ea19d5cea8dd/68747470733a2f2f63646e2e6472696262626c652e636f6d2f75736572732f313138373833362f73637265656e73686f74732f363533393432392f70726f6772616d65722e676966"/>
+
+- 👨🏼‍💻 𝙸 𝚕𝚘𝚟𝚎 𝚌𝚘𝚍𝚒𝚗𝚐 𝚊𝚗𝚍 𝚕𝚎𝚊𝚛𝚗𝚒𝚗𝚐 𝚗𝚎𝚠 𝚝𝚑𝚒𝚗𝚐𝚜.
+- 🔭 𝙸’𝚖 𝚌𝚞𝚛𝚛𝚎𝚗𝚝𝚕𝚢 𝚠𝚘𝚛𝚔𝚒𝚗𝚐 𝚘𝚗 **𝚆𝚎𝚋 𝙳𝚎𝚟𝚎𝚕𝚘𝚙𝚖𝚎𝚗𝚝**
+- 🌱 𝙸’𝚖 𝚌𝚞𝚛𝚛𝚎𝚗𝚝𝚕𝚢 𝚕𝚎𝚊𝚛𝚗𝚒𝚗𝚐 **AWS** Services.
+- 👯 𝙸’𝚖 𝚕𝚘𝚘𝚔𝚒𝚗𝚐 𝚝𝚘 𝚌𝚘𝚕𝚕𝚊𝚋𝚘𝚛𝚊𝚝𝚎 𝚘𝚗 **𝚆𝚎𝚋 𝙳𝚎𝚟𝚎𝚕𝚘𝚙𝚖𝚎𝚗𝚝.**
+- ⚡ 𝙵𝚞𝚗 𝚏𝚊𝚌𝚝 : **𝙱𝚎𝚜𝚝 𝙿𝚊𝚛𝚝 𝙾𝚏 𝚃𝚑𝚎 𝙹𝚘𝚞𝚛𝚗𝚎𝚢 𝙸𝚜 : *𝙸𝚝 𝙴𝚗𝚍𝚜.***
+
+<br/>
+<br/>
+
+#
